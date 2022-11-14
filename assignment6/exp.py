@@ -154,9 +154,6 @@ for trial in range(nTrials):
 
 win.close()
 
-#Answer:Enlarges photo and makes it unclear
-    #Change the units into pixels
-
 #Stimulus exercises question 2
 mon = monitors.Monitor('myMonitor', width=30.41, distance=60)
 mon.setSizePix([1440,900])
